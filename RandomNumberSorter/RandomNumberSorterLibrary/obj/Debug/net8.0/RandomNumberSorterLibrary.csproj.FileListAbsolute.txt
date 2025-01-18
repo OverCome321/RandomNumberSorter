@@ -1,0 +1,11 @@
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\RandomNumberSorterLibrary\bin\Debug\net8.0\RandomNumberSorterLibrary.deps.json
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\RandomNumberSorterLibrary\bin\Debug\net8.0\RandomNumberSorterLibrary.dll
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\RandomNumberSorterLibrary\bin\Debug\net8.0\RandomNumberSorterLibrary.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\RandomNumberSorterLibrary\obj\Debug\net8.0\RandomNumberSorterLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\RandomNumberSorterLibrary\obj\Debug\net8.0\RandomNumberSorterLibrary.AssemblyInfoInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\RandomNumberSorterLibrary\obj\Debug\net8.0\RandomNumberSorterLibrary.AssemblyInfo.cs
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\RandomNumberSorterLibrary\obj\Debug\net8.0\RandomNumberSorterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\RandomNumberSorterLibrary\obj\Debug\net8.0\RandomNumberSorterLibrary.dll
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\RandomNumberSorterLibrary\obj\Debug\net8.0\refint\RandomNumberSorterLibrary.dll
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\RandomNumberSorterLibrary\obj\Debug\net8.0\RandomNumberSorterLibrary.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\RandomNumberSorterLibrary\obj\Debug\net8.0\ref\RandomNumberSorterLibrary.dll

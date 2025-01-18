@@ -1,0 +1,11 @@
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\ApiService\bin\Debug\net8.0\ApiService.deps.json
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\ApiService\bin\Debug\net8.0\ApiService.dll
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\ApiService\bin\Debug\net8.0\ApiService.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\ApiService\obj\Debug\net8.0\ApiService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\ApiService\obj\Debug\net8.0\ApiService.AssemblyInfoInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\ApiService\obj\Debug\net8.0\ApiService.AssemblyInfo.cs
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\ApiService\obj\Debug\net8.0\ApiService.csproj.CoreCompileInputs.cache
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\ApiService\obj\Debug\net8.0\ApiService.dll
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\ApiService\obj\Debug\net8.0\refint\ApiService.dll
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\ApiService\obj\Debug\net8.0\ApiService.pdb
+C:\Users\fanel\OneDrive\Рабочий стол\OnellectTestTask\RandomNumberSorter\ApiService\obj\Debug\net8.0\ref\ApiService.dll

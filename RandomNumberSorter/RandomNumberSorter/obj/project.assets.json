@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ApiService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ApiService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApiService.dll": {}
+        }
+      },
+      "RandomNumberSorterLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RandomNumberSorterLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RandomNumberSorterLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiService/1.0.0": {
+      "type": "project",
+      "path": "../ApiService/ApiService.csproj",
+      "msbuildProject": "../ApiService/ApiService.csproj"
+    },
+    "RandomNumberSorterLibrary/1.0.0": {
+      "type": "project",
+      "path": "../RandomNumberSorterLibrary/RandomNumberSorterLibrary.csproj",
+      "msbuildProject": "../RandomNumberSorterLibrary/RandomNumberSorterLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ApiService >= 1.0.0",
+      "RandomNumberSorterLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\fanel\\.nuget\\packages\\": {},
+    "D:\\Programs\\Visual Studio 2022\\SDK\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\fanel\\OneDrive\\Рабочий стол\\OnellectTestTask\\RandomNumberSorter\\RandomNumberSorter\\RandomNumberSorter.csproj",
+      "projectName": "RandomNumberSorter",
+      "projectPath": "C:\\Users\\fanel\\OneDrive\\Рабочий стол\\OnellectTestTask\\RandomNumberSorter\\RandomNumberSorter\\RandomNumberSorter.csproj",
+      "packagesPath": "C:\\Users\\fanel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fanel\\OneDrive\\Рабочий стол\\OnellectTestTask\\RandomNumberSorter\\RandomNumberSorter\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Programs\\Visual Studio 2022\\SDK\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\fanel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\fanel\\OneDrive\\Рабочий стол\\OnellectTestTask\\RandomNumberSorter\\ApiService\\ApiService.csproj": {
+              "projectPath": "C:\\Users\\fanel\\OneDrive\\Рабочий стол\\OnellectTestTask\\RandomNumberSorter\\ApiService\\ApiService.csproj"
+            },
+            "C:\\Users\\fanel\\OneDrive\\Рабочий стол\\OnellectTestTask\\RandomNumberSorter\\RandomNumberSorterLibrary\\RandomNumberSorterLibrary.csproj": {
+              "projectPath": "C:\\Users\\fanel\\OneDrive\\Рабочий стол\\OnellectTestTask\\RandomNumberSorter\\RandomNumberSorterLibrary\\RandomNumberSorterLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

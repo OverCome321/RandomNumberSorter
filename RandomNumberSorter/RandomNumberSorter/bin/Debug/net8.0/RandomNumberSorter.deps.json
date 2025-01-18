@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RandomNumberSorter/1.0.0": {
+        "dependencies": {
+          "ApiService": "1.0.0",
+          "RandomNumberSorterLibrary": "1.0.0"
+        },
+        "runtime": {
+          "RandomNumberSorter.dll": {}
+        }
+      },
+      "ApiService/1.0.0": {
+        "runtime": {
+          "ApiService.dll": {}
+        }
+      },
+      "RandomNumberSorterLibrary/1.0.0": {
+        "runtime": {
+          "RandomNumberSorterLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RandomNumberSorter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RandomNumberSorterLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
